@@ -1,0 +1,11 @@
+{
+    "my.com.myriadeas.dao.domain.Patron": {
+        "username": {
+            "displayList": true
+        }, 
+        "firstname": {
+            "displayList": false
+        }, 
+        "toString": "firstname"
+    }
+}
